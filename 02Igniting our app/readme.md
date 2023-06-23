@@ -1,4 +1,4 @@
-## Namaste React Course by Akshay Saini
+
 # _Chapter 02 - Igniting our App_
 
 
